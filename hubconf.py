@@ -1,4 +1,4 @@
-dependencits ['torch', 'torchvision']
+dependencies ['torch', 'torchvision']
 import torch 
 import torchvision.models
 
